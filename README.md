@@ -28,10 +28,11 @@
 - Paste the link of Wikipedia website in the input box.
 <img width="1470" alt="Screenshot 2024-09-02 at 4 19 43 PM" src="https://github.com/user-attachments/assets/827b4c85-b30e-4b51-8c9f-befd93f743e9">
 
-- After the link is pastes, the bot automatically start.
+- After the link is pasted, the bot automatically start.
 <img width="1470" alt="Screenshot 2024-09-02 at 4 19 50 PM" src="https://github.com/user-attachments/assets/8806cff9-51ea-4ae4-be45-c11bf2b5e83b">
 
 - Question 1
+<br>
 <img width="1470" alt="Screenshot 2024-09-02 at 4 20 22 PM" src="https://github.com/user-attachments/assets/99dfd458-8fc7-4a52-a933-e10e8c03d820">
 
 - Question 2
