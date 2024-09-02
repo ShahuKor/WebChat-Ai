@@ -5,7 +5,7 @@
 - **Large Language Model Integration**: Powered by GPT-4.
 - **Streamlit GUI**: A clean and intuitive user interface built with Streamlit.
 - **Python-based**: Entirely coded in Python.
-- **CSS; Used CSS to make the GUI more attractive and user-friendly.
+- **CSS: Used CSS to make the GUI more attractive and user-friendly.
 
 ## How Project works
 - User Paste's any website link to the input box.
