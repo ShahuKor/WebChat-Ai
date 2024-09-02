@@ -34,16 +34,16 @@
 - Question 1
 <br>
 <img width="1470" alt="Screenshot 2024-09-02 at 4 20 22 PM" src="https://github.com/user-attachments/assets/99dfd458-8fc7-4a52-a933-e10e8c03d820">
-
+<br>
 - Question 2
 <img width="1470" alt="Screenshot 2024-09-02 at 4 20 51 PM" src="https://github.com/user-attachments/assets/f4b8c196-c8ea-4699-8412-3348db94def6">
-
+<br>
 - Question 3. The bot also remembers the chat history and answers accordingly.
 <img width="1470" alt="Screenshot 2024-09-02 at 4 22 16 PM" src="https://github.com/user-attachments/assets/1f28e62f-241f-4e1c-af1e-8154ddf0bb9e">
-
+<br>
 - Question 4. It also summarizes the webpage information.
 <img width="1470" alt="Screenshot 2024-09-02 at 4 25 34 PM" src="https://github.com/user-attachments/assets/ef44199b-e7d0-4ca4-acf0-41c327a5be77">
-
+<br>
   
 
 
